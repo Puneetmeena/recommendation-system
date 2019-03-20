@@ -1,0 +1,489 @@
+﻿Restaurent name,Food Items,Quality
+KFC,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+Burger King,Burger,good
+,Veg_Longer,bad
+,Noodles,bad
+,Veg_Zinger,bad
+,Chicken_Roll,good
+,Smoky_Grilled,good
+,Dips_Bucket,bad
+,Soya_Chaap,good
+Chak De Dabba,Shahi_Paneer,bad
+,Chole_Chawal,bad
+,Noodles,good
+,Chole_Bhature,bad
+,Samosa,bad
+,Soya_Chaap,good
+,Chicken_Tadka,good
+,Chicken_Soup,good
+KK Da Dabba,Noodles,good
+,Samosa,good
+,Soya_Chaap,good
+,Chiken_Tadka,good
+,Chole_Chawal,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+,Chicken_Roll,good
+Food Point,Hot_Wings,bad
+,Dips_Bucket,bad
+,French_Fries,bad
+,Chilly_Potato,good
+,Burger,bad
+,Shahi_Paneer,good
+,Chole_Bhature,good
+,Noodles,good
+Lunch Tadka,Chicken_Tadka,good
+,Chole_Chawal,good
+,Chilly_Potato,bad
+,Shahi_Paneer,good
+,Soya_Chaap,good
+,Dips_Bucket,bad
+,French_Fries,good
+,Chicken_Soup,bad
+cantino,Burger,good
+,Noodles,good
+,Chilly_Potato,bad
+,French_Fries,good
+,Hot_Wings,bad
+,Shahi_Paneer,bad
+,Chole_Bhature,good
+,Chole_Chawal,bad
+Sambokaas,Hot_Wings,good
+,Burgers,good
+,Noodles,bad
+,Dips_Bucket,good
+,Soya_Chaap,bad
+,French_Fries,bad
+,Chole_Bhature,bad
+,Chilly_Potato,good
+Bercos,Chilly_Potato,good
+,Noodles,good
+,Burger,good
+,Soya_Chaap,bad
+,Chole_Bhature,bad
+,Chicken_Soup,bad
+,Hot_Wings,good
+,Dips_Bucket,bad
+Billu's Hut,Dips_Bucket,good
+,Noodles,good
+,Burger,bad
+,Chilly_Potato,good
+,Chole_Bhature,bad
+,Hot_Wings,good
+,Chicken_Roll,good
+,Smoky_Grilled,good
+AM-PM café,Burger,bad
+,Smoky_Grilled,bad
+,Chicken_Roll,bad
+,Hot_Wings,bad
+,Dips_Bucket,good
+,Noodles,good
+,Soya_Chaap,good
+,Chole_Chawal,good
+Mr. Hunger,Burger,bad
+,Hot_Wings,bad
+,Smoky_Grilled,good
+,Veg_Zinger,good
+,Chicken_Roll,good
+,Soya_Chaap,bad
+,Chilly_Potato,good
+,Veg_Longer,bad
+Food Temptation,Chicken_Roll,bad
+,Hot_Wings,good
+,Veg_Zinger,good
+,Soya_Chaap,good
+,Smoky_Grilled,bad
+,Chilly_Potato,good
+,Burger,good
+,Noodles,bad
+Pind Balluchi,Shahi_Paneer,bad
+,Noodles,good
+,Soya_Chaap,good
+,Chilly_Potato,bad
+,Veg_Longer,good
+,Veg_Zinger,bad
+,Burger,good
+,Samosa,good
+Ricos,Samosa,good
+,Chole_Chawal,good
+,Chole_Bhature,good
+,Soya_Chaap,good
+,Veg_Zinger,good
+,Chilly_Potato,good
+,Smoky_Grilled,good
+,Chicken_Roll,bad
+Hot Curries,Shahi_Paneer,bad
+,Soya_Chaap,bad
+,Samosa,good
+,Burger,bad
+,Noodles,good
+,Smoky_Grilled,good
+,Veg_Zinger,good
+,Chole_Bhature,good
+ woodbox café,Burger,good
+,Noodles,bad
+,Samosa,bad
+,Smoky_Grilled,good
+,Hot_Wings,good
+,Chilly_Potato,good
+,Chicken_Roll,good
+,Soya_Chaap,good
+Imperfecto,Shahi_Paneer,good
+,Hot_Wings,good
+,Soya_Chaap,bad
+,Burger,bad
+,Noodles,good
+,Dips_Bucket,bad
+,Smoky_Grilled,good
+,Veg_Zinger,good
+Best Buddy Café,Chilly_Potato,good
+,Smoky_Grilled,good
+,Dips_Bucket,good
+,Samosa,good
+,Burger,good
+,Noodles,good
+,Hot_Wings,bad
+,Soya_Chaap,bad
+Cafe di milano,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+the tasty feed,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+Khanna khazana,Burger,good
+,Veg_Longer,bad
+,Noodles,bad
+,Veg_Zinger,bad
+,Chicken_Roll,good
+,Smoky_Grilled,good
+,Dips_Bucket,bad
+,Soya_Chaap,good
+bittu ke tadke,Shahi_Paneer,bad
+,Chole_Chawal,bad
+,Noodles,good
+,Chole_Bhature,bad
+,Samosa,bad
+,Soya_Chaap,good
+,Chicken_Tadka,good
+,Chicken_Soup,good
+punter hous,Noodles,good
+,Samosa,good
+,Soya_Chaap,good
+,Chiken_Tadka,good
+,Chole_Chawal,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+,Chicken_Roll,good
+afterhours cafe,Hot_Wings,bad
+,Dips_Bucket,bad
+,French_Fries,bad
+,Chilly_Potato,good
+,Burger,bad
+,Shahi_Paneer,good
+,Chole_Bhature,good
+,Noodles,good
+club lepid,Chicken_Tadka,good
+,Chole_Chawal,good
+,Chilly_Potato,bad
+,Shahi_Paneer,good
+,Soya_Chaap,good
+,Dips_Bucket,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+blue tokai,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+jugmug thella,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+blue room,Burger,good
+,Veg_Longer,bad
+,Noodles,bad
+,Veg_Zinger,bad
+,Chicken_Roll,good
+,Smoky_Grilled,good
+,Dips_Bucket,bad
+,Soya_Chaap,good
+tastes of North india,Shahi_Paneer,bad
+,Chole_Chawal,bad
+,Noodles,good
+,Chole_Bhature,bad
+,Samosa,bad
+,Soya_Chaap,good
+,Chicken_Tadka,good
+,Chicken_Soup,good
+suroor reloaded,Noodles,good
+,Samosa,good
+,Soya_Chaap,good
+,Chiken_Tadka,good
+,Chole_Chawal,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+,Chicken_Roll,good
+Delhi heights,Hot_Wings,bad
+,Dips_Bucket,bad
+,French_Fries,bad
+,Chilly_Potato,good
+,Burger,bad
+,Shahi_Paneer,good
+,Chole_Bhature,good
+,Noodles,good
+food stop,Chicken_Tadka,good
+,Chole_Chawal,good
+,Chilly_Potato,bad
+,French_Fries,good
+,Soya_Chaap,good
+,Dips_Bucket,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+Cafe italiano,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+Cafe foto club,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+jungle jumbaroo,Burger,good
+,Veg_Longer,bad
+,Noodles,bad
+,Veg_Zinger,bad
+,Chicken_Roll,good
+,Smoky_Grilled,good
+,Dips_Bucket,bad
+,Soya_Chaap,good
+Radha ki rasoi,Shahi_Paneer,bad
+,Chole_Chawal,bad
+,Noodles,good
+,Chole_Bhature,bad
+,Samosa,bad
+,Soya_Chaap,good
+,Chicken_Tadka,good
+,Chicken_Soup,good
+anant dhabba,Noodles,good
+,Samosa,good
+,Soya_Chaap,good
+,Chiken_Tadka,good
+,Chole_Chawal,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+,Chicken_Roll,good
+Cafe mitron,Hot_Wings,bad
+,Dips_Bucket,bad
+,French_Fries,bad
+,Chilly_Potato,good
+,Burger,bad
+,Shahi_Paneer,good
+,Chole_Bhature,good
+,Noodles,good
+govindam,Chicken_Tadka,good
+,French_Fries,good
+,Chilly_Potato,bad
+,Shahi_Paneer,good
+,Soya_Chaap,good
+,Dips_Bucket,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+kc restaurant,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+Apna Dhaba,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+Apni Rasoi,Burger,good
+,Veg_Longer,bad
+,Noodles,bad
+,Veg_Zinger,bad
+,Chicken_Roll,good
+,Smoky_Grilled,good
+,French_Fries,bad
+,Soya_Chaap,good
+Vaishnav Da Dabha,Shahi_Paneer,bad
+,Chole_Chawal,bad
+,Noodles,good
+,Chole_Bhature,bad
+,Samosa,bad
+,Soya_Chaap,good
+,Chicken_Tadka,good
+,Chicken_Soup,good
+Lunch Time,Noodles,good
+,Samosa,good
+,Soya_Chaap,good
+,Chiken_Tadka,good
+,Chole_Chawal,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+,Chicken_Roll,good
+Foodyy,Hot_Wings,bad
+,Dips_Bucket,bad
+,French_Fries,bad
+,Chilly_Potato,good
+,Burger,bad
+,Shahi_Paneer,good
+,Chole_Bhature,good
+,Noodles,good
+Chak De Parantha,Chicken_Tadka,good
+,Chole_Chawal,good
+,Chilly_Potato,bad
+,Shahi_Paneer,good
+,Soya_Chaap,good
+,Dips_Bucket,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+BB Point,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+Snack Time,French_Fries,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+Billoo Hut,Burger,good
+,Veg_Longer,bad
+,Noodles,bad
+,Veg_Zinger,bad
+,Chicken_Roll,good
+,Smoky_Grilled,good
+,Dips_Bucket,bad
+,French_Fries,good
+Soup special,Shahi_Paneer,bad
+,Chole_Chawal,bad
+,Noodles,good
+,Chole_Bhature,bad
+,Samosa,bad
+,Soya_Chaap,good
+,Chicken_Tadka,good
+,Chicken_Soup,good
+reloaded food,Noodles,good
+,Samosa,good
+,Soya_Chaap,good
+,Chiken_Tadka,good
+,Chole_Chawal,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+,Chicken_Roll,good
+Chinese Point,Hot_Wings,bad
+,Dips_Bucket,bad
+,French_Fries,bad
+,Chilly_Potato,good
+,French_Fries,bad
+,Shahi_Paneer,good
+,Chole_Bhature,good
+,Noodles,good
+Food Special,Chicken_Tadka,good
+,Chole_Chawal,good
+,Chilly_Potato,bad
+,Shahi_Paneer,good
+,Soya_Chaap,good
+,Dips_Bucket,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+Café Chinese,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+Lunch Special,Burger,good
+,Chicken_Roll,good
+,French_Fries,bad
+,Noodles,bad
+,Hot_Wings,good
+,Smoky_Grilled,bad
+,Dips_Bucket,good
+,Veg_Zinger,good
+U like It,Burger,good
+,Veg_Longer,bad
+,Noodles,bad
+,Veg_Zinger,bad
+,Chicken_Roll,good
+,Smoky_Grilled,good
+,Dips_Bucket,bad
+,Soya_Chaap,good
+Jagan Halwai,Shahi_Paneer,bad
+,Chole_Chawal,bad
+,Noodles,good
+,Chole_Bhature,good
+,Samosa,bad
+,Soya_Chaap,good
+,Chicken_Tadka,good
+,Chicken_Soup,good
+Raja Ram ,Noodles,bad
+,Samosa,good
+,Soya_Chaap,bad
+,Chiken_Tadka,good
+,Chole_Chawal,bad
+,Chole_Bhature,good
+,Chicken_Soup,good
+,Chicken_Roll,good
+Mitron Special,Hot_Wings,bad
+,Dips_Bucket,bad
+,French_Fries,good
+,Chilly_Potato,bad
+,Burger,bad
+,Shahi_Paneer,bad
+,Chole_Bhature,good
+,Noodles,bad
+Ali Ka Dabba,Chicken_Tadka,good
+,Chole_Chawal,good
+,Chilly_Potato,bad
+,Shahi_Paneer,good
+,French_Fries,good
+,Dips_Bucket,bad
+,Chole_Bhature,good
+,Chicken_Soup,bad
+Burger Point,Burger,good
+,Chicken_Roll,good
+,Veg_Longer,bad
+,Noodles,bad
+,French_Fries,good
+,Smoky_Grilled,bad
+,Dips_Bucket,bad
+,Veg_Zinger,good
